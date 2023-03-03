@@ -1,1 +1,1 @@
-Here is for Shell redirections
+All about shell permission
